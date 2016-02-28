@@ -1,0 +1,24 @@
+_repo: Milton_8770
+creator:
+  author:
+    agent_name: Pattison, Mark
+    birthdate: 1813
+    deathdate: 1884
+    gutenberg_agent_id: '2875'
+    url: http://www.gutenberg.org/2009/agents/2875
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Pattison
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Milton, John, 1608-1674'
+- !lcc 'PR'
+title: Milton
+url: http://www.gutenberg.org/ebooks/8770
